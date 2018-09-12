@@ -4,5 +4,7 @@
 3. I use convertBitmapToQrCode.py to draw the QR code
 4. Scan it and I got the flag
 ```
-origin.bmp
+
+#### origin.bmp
+
 ![Alt text](origin.bmp?raw=true "origin.bmp")
