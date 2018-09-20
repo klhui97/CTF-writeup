@@ -10,5 +10,6 @@ run:
 $ python solution.py
 
 Solution 2:
-Online tool: http://crypto.interactive-maths.com/caesar-shift-cipher.html
+Online tool 1: https://planetcalc.com/1434/
+Online tool 2: http://crypto.interactive-maths.com/caesar-shift-cipher.html
 ```

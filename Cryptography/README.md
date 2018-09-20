@@ -1,5 +1,7 @@
 ### Cryptography common tools
 
+learning: https://blog.csdn.net/pdsu161530247/article/details/75667218
+
 xssee:http://web2hack.org/xssee
 
 xssee:http://evilcos.me/lab/xssee
